@@ -32,9 +32,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vipranan&show_icons=true&theme=radical&count_private=true" alt="Vipranan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipranan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Vipranan&show_icons=true&theme=radical&count_private=true" alt="Vipranan's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Vipranan&layout=compact&theme=radical" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Vipranan&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
