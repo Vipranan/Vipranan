@@ -29,12 +29,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Vipranan&show_icons=true&theme=radical&count_private=true" alt="Vipranan's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vipranan&theme=2077" alt="Vipranan's GitHub Details" />
   <br/><br/>
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Vipranan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vipranan&theme=2077" alt="Languages Breakdown" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Vipranan&theme=radical" alt="GitHub Streak" />
 </p>
