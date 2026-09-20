@@ -67,6 +67,14 @@
 
 <br/>
 
+<h2 align="center">Animated Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vipranan/Vipranan/output/github-contribution-grid-snake-dark.svg" alt="Animated Contribution Snake" width="100%" />
+</p>
+
+<br/>
+
 <h2 align="center">Analytics & Charts</h2>
 
 <p align="center">
